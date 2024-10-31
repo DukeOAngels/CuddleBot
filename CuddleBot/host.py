@@ -85,8 +85,8 @@ while True:
                 print("main.py is running.")
                 status = current_status
                 
-                update_file_on_github('main.py', 'CuddleBot/main.py')
-                update_file_on_github('host.py', 'CuddleBot/host.py')  
+                update_file_on_github('CuddleBot/main.py', 'CuddleBot/main.py')
+                update_file_on_github('CuddleBot/host.py', 'CuddleBot/host.py')  
     except (ConnectionRefusedError, OSError):
         crash_time = datetime.now(pytz.timezone('UTC')).strftime('%Y-%m-%d %H:%M:%S %Z')
 
