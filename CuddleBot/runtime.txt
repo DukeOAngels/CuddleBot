@@ -173,3 +173,5 @@ Host Monitor Status: running
 Crash: 2024-11-03 15:37:12 UTC
 Runned for: 0 days, 0 hours, 12 minutes, 47 seconds
 Host Monitor Status: running
+Crash: 2024-11-03 15:37:25 UTC
+Runned for: 0 days, 0 hours, 13 minutes, 0 seconds
